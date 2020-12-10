@@ -1,12 +1,12 @@
-# TRIP-ADVISOR - A software engineering project
+# TRIP-ADVISOR
 
-In this project, We were supposed to develop 'Trip Advisor' system. A system which helps user to plan trip, find the attractions and famous places in given city, find transportation and hotels for given source and destination.
+Trip advisor is a travelling partner. It allows user to register, login, browse different tour packages, transportation options, hotels, places to visit and if user is registered, write review. 
 
 For which we have followed these steps:
 
 1. Define the problem
-2. Requirement gathering
+2. Requirement gathering and analysis
 3. Modeling or Designing system
-4. implementation
+4. Implementation
 
-For the above steps we have created usecase diagrams, interaction diagrams, class model, etc.
+For the above steps we also created usecase diagrams, interaction diagrams, class model, etc.
